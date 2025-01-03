@@ -1,6 +1,6 @@
 # Kick Chatbot - README
 
-  This is my Kick Chatbot project. It’s a bot that connects to Kick stream chats, reads messages in real-time, and responds using AI. This is not intended to be used to deceive or manipulate the perception of a given chat or stream. Please do not use irresponsibly. ** Note this is essentially a side-project in a pre POC state. **
+  This is my Kick Chatbot project. It’s a bot that connects to Kick stream chats, reads messages in real-time, and responds using AI. This is not intended to be used to deceive or manipulate the perception of a given chat or stream. Please do not use irresponsibly. **Note this is essentially a side-project in a pre POC state.**
 
 ---
 
