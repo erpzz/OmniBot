@@ -1,2 +1,4 @@
-beautifulsoup4==4.12.3
-selenium==4.21.0
+websockets==10.3
+requests==2.31.0
+ollama==1.2.0
+sqlite3==3.36.0
