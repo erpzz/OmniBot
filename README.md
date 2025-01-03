@@ -76,4 +76,4 @@ That’s it! The bot connects to your Kick channel and starts responding to chat
 
 ## Questions or Suggestions?
 
-If you run into issues or have ideas to make this better, let me know. Have fun using the bot!
+If you run into issues or have ideas to make this better, let me know. You can email me at: eneftpaiz@gmail.com for inquiries regarding this project or if you'd like to discuss future endeavors.
