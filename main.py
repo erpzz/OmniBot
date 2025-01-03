@@ -1,3 +1,4 @@
+# Developer: Eric Neftali Paiz
 import threading
 import time
 from chatforge import Responder
